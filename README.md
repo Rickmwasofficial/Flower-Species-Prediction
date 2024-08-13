@@ -7,4 +7,4 @@ A Convolutional Neural Network That Predicts The Species of flowers based on the
 4. Tulip
 5. Dandelion
 
-The architecture used to build the model is the [TINY VGG](http://cs231n.stanford.edu/) used in the [CNN Explainer](https://poloclub.github.io/cnn-explainer/)
+The architecture used to build the model is the [TINY VGG](http://cs231n.stanford.edu/) used in the [CNN Explainer](https://poloclub.github.io/cnn-explainer/) Website.
